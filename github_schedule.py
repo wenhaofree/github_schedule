@@ -25,9 +25,9 @@ def main():
     print("提交成功")
 
 def schedule_job():
-    #schedule.every().day.at("08:00").do(main)
+    schedule.every().day.at("07:00").do(main)
     # schedule.every().day.at("10:42").do(job)
-    schedule.every(1).seconds.do(main)
+    #schedule.every(1).seconds.do(main)
     # schedule.every(1).minutes.do(main)
     # schedule.every(1).hours.do(job)
     while True:
