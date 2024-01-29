@@ -7,8 +7,4 @@
 解决：在GitHub中添加提交代码的邮箱之后，再次提交，贡献图里统计到了数据！
 
 
-————————————————
-版权声明：本文为CSDN博主「qq_36801966」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_36801966/article/details/115047533
-
 github_schedule 保证Github每日提交
