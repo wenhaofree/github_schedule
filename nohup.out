@@ -432,3 +432,10 @@ Already up-to-date.
 remote: To git@github.com:fwh666/github_schedule.git
    51123fa..41f6952  main -> main
 Already up-to-date.
+[main a01419e] schedule commit
+ 2 files changed, 6 insertions(+)
+remote: This repository moved. Please use the new location:[K
+remote:   git@github.com:wenhaofree/github_schedule.git[K
+remote: To git@github.com:fwh666/github_schedule.git
+   41f6952..a01419e  main -> main
+Already up-to-date.
