@@ -1146,3 +1146,10 @@ remote:   git@github.com:wenhaofree/github_schedule.git[K
 remote: To git@github.com:fwh666/github_schedule.git
    fbf12cf..0cc4154  main -> main
 Already up-to-date.
+[main aefea2e] schedule commit
+ 2 files changed, 8 insertions(+)
+remote: This repository moved. Please use the new location:[K
+remote:   git@github.com:wenhaofree/github_schedule.git[K
+remote: To git@github.com:fwh666/github_schedule.git
+   0cc4154..aefea2e  main -> main
+Already up-to-date.
